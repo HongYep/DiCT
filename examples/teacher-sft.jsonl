@@ -1,0 +1,1 @@
+{"id": "example-teacher", "messages": [{"role": "user", "content": "Which marker is shown in the CT volume?\nA. Circle\nB. Square\nC. Triangle\nD. Star\nPlease reason step by step, and put the final answer within \\boxed{}."}, {"role": "assistant", "content": "The shape is round.\n\\boxed{A}"}], "channel": "media/example-ct.nii.gz"}

@@ -1,0 +1,1 @@
+{"id": "example-rex", "images": ["media/example-frontal.png"], "messages": [{"role": "user", "content": "<image>\nWhat is the marker width in mm?"}], "solution": "20.0", "reference_mm": 20.0, "question": "What is the marker width in mm?", "gold_answer": "20 mm", "source_dataset": "rexvqa", "reward_type": "rex_scalar", "_native_opd_padding": false}

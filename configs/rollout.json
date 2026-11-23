@@ -1,0 +1,11 @@
+{
+  "model_type": "qwen3_vl",
+  "torch_dtype": "bfloat16",
+  "host": "127.0.0.1",
+  "vllm_tensor_parallel_size": 1,
+  "vllm_data_parallel_size": 1,
+  "vllm_gpu_memory_utilization": 0.82,
+  "vllm_max_model_len": 8192,
+  "vllm_max_num_seqs": 32,
+  "vllm_enable_prefix_caching": true
+}
